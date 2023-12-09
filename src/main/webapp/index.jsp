@@ -6,7 +6,7 @@
 
 <form action="about.jsp">
   <label for="fname">First name:</label><br>
-  <input type="text" id="fname" value="John"><br><br>
+  <input type="text" id="fname" value="Suraj Singh"><br><br>
   <input type="submit" value="Submit">
 </form> 
 
